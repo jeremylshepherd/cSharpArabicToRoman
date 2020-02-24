@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShepherdJeremyArabicToRoman", "ShepherdJeremyArabicToRoman\ShepherdJeremyArabicToRoman.csproj", "{A4C6246D-1937-41FF-9533-8BF4FE6DC7F1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A4D37774-0BFA-4BC4-A48E-0491A6659974}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
